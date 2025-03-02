@@ -8,16 +8,5 @@ _(Whisper:Our BBS is at [CZLJ BBS](https://czlj.net))_
 * [https://CodeCrafterNixx.github.io](https://CodeCrafterNixx.github.io)
 * [https://codingni.6tv.icu/](https://codingni.6tv.icu/) 【Recommend】
 
-# Our Projects:
-> * [CodeCMS]
->   - The Repo: ......
->   - Running at:
->     - https://codecraft.czlj.net （Its Server has seemed to have some Bugs recently...）
-> 
->   __Introduce: A simple Content Manage System in the Internet Server. We want it to be used in some Programmers' Website.(such as CSDN)__
-
-
-> * [MLP_Study]
->   - The Repo: ......
->   
->   __Introduce: A program to study the FNN(MLP).It will be a good choose to make the running Neural Network visual to watch.(Oh I'm sorry for my hard English)__
+# ***Go to the index page and look for PROGRAM-PROJECTS!!!***\
+*click here -> [> CodeCraft - Code the Future,with our CRAZY LOVE_]([https://](https://codingni.6tv.icu/))*
