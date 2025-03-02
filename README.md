@@ -6,8 +6,8 @@ CodeCrafterNixx的项目发布页面& &个人主页
 
 ## You can visit this Website at:
 
-* ` https://CodeCrafterNixx.github.io `
-* ` https://codingni.6tv.icu/ ` 【Recommend】
+* [https://CodeCrafterNixx.github.io](https://CodeCrafterNixx.github.io)
+* [https://codingni.6tv.icu/](https://codingni.6tv.icu/) 【Recommend】
 
 # Our Projects:
 > * [CodeCMS]
