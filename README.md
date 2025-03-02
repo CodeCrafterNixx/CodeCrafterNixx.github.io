@@ -1,5 +1,5 @@
 ** =) **
-CodeCrafterNixx's project release page &amp;&amp; personal homepage
+_CodeCrafterNixx's project release page &amp;&amp; personal homepage_
 
 ` (Wishper:Our BBS is at [https://CZLJ.net](CZLJ BBS)) `
 
