@@ -9,4 +9,4 @@ _(Whisper:Our BBS is at [CZLJ BBS](https://czlj.net))_
 * [https://codingni.6tv.icu/](https://codingni.6tv.icu/) 【Recommend】
 
 # ***Go to the index page and look for PROGRAM-PROJECTS!!!***
-*click here -> [> CodeCraft - Code the Future,with our CRAZY LOVE_]([https://](https://codingni.6tv.icu/))*
+*click here -> [> CodeCraft - Code the Future,with our CRAZY LOVE_](https://codingni.6tv.icu/) ]*
