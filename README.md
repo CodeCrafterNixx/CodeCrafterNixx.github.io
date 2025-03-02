@@ -1,7 +1,7 @@
-** =) **
+**=)**
 _CodeCrafterNixx's project release page &amp;&amp; personal homepage_
 
-` (Wishper:Our BBS is at [https://CZLJ.net](CZLJ BBS)) `
+_(Wishper:Our BBS is at [CZLJ BBS](https://CZLJ.net))_
 
 ## You can visit this Website at:
 
