@@ -1,7 +1,5 @@
-# =)
+** =) **
 CodeCrafterNixx's project release page &amp;&amp; personal homepage
-
-CodeCrafterNixx的项目发布页面& &个人主页
 
 
 ## You can visit this Website at:
